@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{42B0A8B0-FBA7-4BDA-BB69-0C7D919C48BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B0A8B0-FBA7-4BDA-BB69-0C7D919C48BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B0A8B0-FBA7-4BDA-BB69-0C7D919C48BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B0A8B0-FBA7-4BDA-BB69-0C7D919C48BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B0A8B0-FBA7-4BDA-BB69-0C7D919C48BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEED155C-3B45-496A-9BEE-406862C57026}
+	EndGlobalSection
+EndGlobal
